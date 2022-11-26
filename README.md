@@ -1,5 +1,5 @@
 <h1 align="center">Loan Calculator Application</h1> 
-<h4 align="center"><a href="https://naveenkumar-j.github.io/Load-calculator-application-using-JavaScript/" target="_blank">Live Preview</a></h4> 
+<h4 align="center"><a href="https://naveenkumar-j.github.io/Loan-calculator-application-using-JavaScript/" target="_blank">Live Preview</a></h4> 
 
 - ### Tech Stack used:
 	<center>
