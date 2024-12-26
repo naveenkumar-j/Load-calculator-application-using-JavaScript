@@ -1,4 +1,4 @@
-<h1 align="center">Loan Calculator Application</h1> 
+<h1 align="center" id="app">Loan Calculator Application</h1> 
 <h4 align="center"><a href="https://naveenkumar-j.github.io/Loan-calculator-application-using-JavaScript/" target="_blank">Live Preview</a></h4> 
 
 - ### Tech Stack used:
@@ -44,6 +44,6 @@ https://user-images.githubusercontent.com/70682152/204083797-f0e4bedc-5d30-4265-
 
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#app">↥ back to top</a></b>
 </div>
 
